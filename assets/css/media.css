@@ -1,0 +1,573 @@
+@media only screen and (max-width: 1200px){
+	.menu ul li a{
+		font-size: 12px;
+	}	
+
+	.law-content h6{
+		font-size: 20px;
+	}
+	.about-content{
+		padding-right: 110px;
+	}
+
+	.about-content h1{
+	font-size: 40px;
+	color: #011c4b;
+}
+
+.about-content p{
+	font-size: 16px;
+}
+
+.client-logo img:nth-child(2){
+	margin:0 70px;
+	
+	height: 90px;
+	margin-top: 50px;
+	
+}
+
+.banner3-content h1 {
+    font-size: 45px;
+    font-family: bell-mt-grassetto;
+}
+
+    
+}
+
+
+@media only screen and (max-width: 1140px){
+	.menu ul li a{
+		font-size: 12px;
+	}
+
+	.Immigration{
+	top: 41%;
+}	
+
+.family, .convey, .land, .tenant{
+	top: 47%;
+}
+
+.about-content{
+		padding-right: 90px;
+	}
+
+	.about-content h1{
+	font-size: 40px;
+	color: #011c4b;
+}
+
+.about-content p{
+	font-size: 14px;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 991.96px){
+.btn-call{
+	display: none;
+}
+
+.menu ul li a{
+		font-size: 16px;
+	}
+
+
+	.law-content{
+
+	width: 100%;
+
+}
+
+.law-content img {
+    
+    padding-top: 17px;
+}
+ .heading-text h1{
+ 	font-size: 40px;
+ }
+	.banner-content p{
+		font-size: 16px;
+	}
+	.banner-content h1{
+		font-size: 35px;
+	}
+
+
+	/*about css*/
+
+
+  .about-content {
+  	margin-top: 0;
+  	padding-right: 123px;
+  }
+
+ 
+
+	.about-content h1{
+	font-size: 25px;
+	color: #011c4b;
+}
+
+.about-content p{
+	font-size: 14px;
+}
+
+.about .btn-about{
+	margin-top:0;
+	font-size: 12px;
+	
+} 
+
+.client-logo img:nth-child(2){
+	
+	margin:0 30px;
+	height: 59px;
+	margin-top: 50px;
+	
+}
+
+.client-logo img {
+    height: 64px;
+    width: auto;
+}
+
+.client-logo img:nth-child(1) {
+    height: 59px;
+    width: auto;
+}
+
+/*information css*/
+
+
+.thumbnail-post h5{
+	font-size:13px ;
+	
+}
+
+.thumbnail-post p{
+	font-size:12px ;
+	
+}
+
+/*banner2 css*/
+
+.banner2-content h1{
+	font-size: 28px;
+	
+}
+
+.banner2-content p{
+	font-size: 12px;
+	
+}
+
+.testimonial p{
+	font-size: 12px;
+}
+
+.testimonial i{
+	font-size: 40px;
+}
+
+.banner3-content h1{
+	font-size: 33px;
+}
+
+/*footer*/
+
+.footer-content ul li{
+	margin-right: 20px !important;
+}
+.info i{
+	font-size: 14px;
+}
+
+.info i, p{
+	font-size: 14px;
+}
+
+footer h4{
+	font-size: 20px;
+}
+.testimonial .quata img{
+	height: 45px;
+}
+
+.footer p{
+	font-size: 9px;
+}
+
+.footer ul li a{
+	font-size: 9px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 767.96px){
+		.law-content{
+
+	width: 100%;
+	margin-top: 20px;
+
+}
+
+	.law-content img {
+    
+    padding-top: 17px;
+}
+
+.law-content h6{
+	font-size:18px;
+}
+
+.debt,.Immigration{
+	top: 50%;
+}
+
+.m-top{
+	margin-top: 0px;
+}
+
+.heading-text h1{
+ 	font-size: 30px;
+ }
+
+
+	.banner-content .role{
+		font-size: 10px;
+	}
+	.banner-content p{
+		font-size: 12px;
+	}
+	.banner-content h1{
+		font-size: 30px;
+	}	
+
+	.banner-button .btn-custom{
+		font-size: 12px;
+	}	
+
+	/*about css*/
+.about-image img{
+	display: none;
+}
+
+
+
+.about-content{
+	padding: 0 60px;
+	text-align: center;
+	border-left: 0;
+	margin-top: 10px;
+  	
+}
+
+.t-center{
+	text-align: center;
+}
+
+
+  .about-content h1{
+	font-size: 25px;
+	color: #011c4b;
+}
+
+.about-content p{
+	font-size: 16px;
+}
+
+.about .btn-about{
+	text-align: center;
+}
+
+  /*logo css*/
+
+  .client-logo{
+	margin-top: 0;
+}
+
+.client-logo img:nth-child(2){
+	height: 50px;
+	margin: 0 50px;
+	margin-top: 50px;
+	
+}
+
+
+
+.client-logo img:nth-child(1){
+	height:50px;
+}
+
+.client-logo img:nth-child(3){
+	height:60px;
+}
+
+
+/*testimonial*/
+.testimonial .quata img{
+	height: 35px;
+}
+
+.testimonial p{
+	padding-right: 0;
+}
+
+/*information css*/
+.child3, .child4{
+	margin-top: 30px;
+}
+
+.thumbnail-post img{
+	text-align: center;
+
+	
+}
+
+.thumbnail-post a{
+	
+	font-size: 14px;
+	
+}
+
+.thumbnail-post h5{
+	font-size: 20px;
+}
+.carousel-control-next-icon i{
+	font-size: 20px;
+}
+.carousel-control-prev-icon i{
+	font-size: 20px;
+}
+
+.testimonial .quata{
+	display: none;
+}
+
+/*all button*/
+.btn-about{
+	padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.banner-button .btn-custom{
+	padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+.btn-learn{
+	padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 575.96px){
+ .t-center{
+ 	text-align: center !important;
+ }	
+
+ .t-right{
+ 	text-align: right !important;
+ }
+nav a img{
+	height: 12px !important;
+}
+
+.law-content{
+width:100%;
+
+}
+
+.law-content{
+	margin: auto;
+}
+
+.law-content h6{
+	font-size:14px;
+}
+.m-top{
+	margin-top: 30px;
+}
+
+.second-step{
+	margin-top: 26px;
+}
+
+.law-content img {
+    
+    padding-top: 17px;
+}
+
+/*about css*/
+
+.about-image img{
+	display: none;
+}
+
+.about-content{
+	padding: 20px;
+	text-align: center;
+}
+
+.about-content h1{
+	font-size: 20px;
+	
+}
+
+.about-content p{
+	font-size: 12px;
+}
+
+.client-logo img:nth-child(2){
+	height: 25px;
+	margin:0 20px;
+	margin-top: 50px;
+}
+
+.client-logo img:nth-child(1) {
+    height: 25px !important;
+}
+
+.about .btn-about{
+	margin-top:0;
+	font-size: 10px;
+	
+} 
+
+.client-logo{
+	text-align: center;
+}
+
+.client-logo img:nth-child(2){
+	height: 30px;
+}
+
+.client-logo img:nth-child(1){
+	height:130px;
+}
+
+.client-logo img:nth-child(3){
+	height:45px;
+}
+
+/*post css*/
+
+.thumbnail-post a{
+	
+	font-size: 12px;
+	
+}
+
+.child2{
+	margin-top: 30px;
+}
+
+/*testimonial css*/
+
+.testimonial .quata img{
+	display: none;
+}
+
+.testimonial p{
+	font-size: 10px;
+	text-align: center;
+	
+	padding-bottom: 30px;
+	font-family: leto-italic;
+}
+
+.banner3-content h1{
+	font-size: 24px;
+}
+
+.footer p{
+	text-align: center;
+	font-size: 12px;
+}
+
+.contact-info{
+	margin-top: 20px;
+}
+
+.info i{
+	padding-right: 30px;
+}
+
+.recent-post{
+	margin-top: 20px;
+}
+
+.contact-form{
+	margin-top: 20px;
+}
+
+.contact-info i{
+	font-size: 16px;
+}
+
+.contact-info p {
+    font-family: leto;
+    font-size: 14px;
+}
+
+.footer  ul li a{
+	font-size: 12px;
+}
+
+}
+
+
+@media only screen and (max-width: 319.96px){
+	
+	.banner-content h1{
+		font-size: 22px;
+	}
+
+	.client-logo img:nth-child(2){
+	margin-bottom: 10px;
+}
+
+.nav-logo{
+	width: 170px;
+}
+
+.client-logo img:nth-child(2){
+	height: 20px;
+}
+
+.client-logo img:nth-child(1){
+	height:20px;
+}
+
+.client-logo img:nth-child(3){
+	height:20px;
+}
+
+}
